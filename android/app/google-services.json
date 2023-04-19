@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761094119320",
+    "project_id": "massanger-44928",
+    "storage_bucket": "massanger-44928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761094119320:android:42199666a21df501fa55ed",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761094119320-hm148omhqge2pv3ii74eplsrngi7cb8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjEcNOsT3yKg8Sn-geV8sIvkDe03rJVqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761094119320-hm148omhqge2pv3ii74eplsrngi7cb8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
